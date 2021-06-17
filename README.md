@@ -22,3 +22,9 @@ Some of the technologies and tools that I work with or have knowledgement:
 
 ### How to reach me 🔍
 [![Linkedin: anaclaudia-silva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclaudia-silva/)](https://www.linkedin.com/in/anaclaudia-silva/)     [![Gmail Badge](https://img.shields.io/badge/-claudia.2412.acu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:claudia.2412.acu@gmail.com)](mailto:claudia.2412.acu@gmail.com)
+
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=anaclaudiasilva&show_icons=true&theme=tokyonight&line_height=27">
+</p>
