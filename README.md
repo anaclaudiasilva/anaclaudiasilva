@@ -26,6 +26,6 @@ Some of the technologies and tools that I work with or have knowledgement:
 ## ⭐ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaudiasilva&layout=compact&card_height=200&include_all_commits&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api?username=anaclaudiasilva&show_icons=true&theme=tokyonight&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaudiasilva&layout=compact&card_height=200&include_all_commits&theme=radical">
 </p>
